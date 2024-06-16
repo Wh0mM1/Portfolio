@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Flutter Developer Intern",
+    "organisation": "VYAM",
+    "startDate": "May, 2022",
+    "endDate": "Aug 2022",
+    "experiences": ["Worked on admin panel app.", "Added features for admin, users, and vendors.","Made easier for admin to intract with users and vendors."],
+    "imageSrc": "history/vyam.png"
+  },
+  {
+    "role": "Electronics Head",
+    "organisation": "DJS Robocon",
+    "startDate": "Sep, 2022",
+    "endDate": "Sep, 2023",
+    "experiences": ["Robotics team for DJSCE","Led department of 8 members.", "Designed PCB for a robot.","Implemented different applications of microcontrollers."],
+    "imageSrc": "history/djsrobocon.png"
+  }
+  
+]

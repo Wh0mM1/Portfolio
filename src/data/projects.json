@@ -1,0 +1,20 @@
+[
+  {
+    "title": "E-commerce App",
+    "imageSrc": "projects/ecom.jpeg",
+    "description": "Developed a system for managing orders, products, and payments that securely connects and communicates with each other.",
+    "skills": ["Spring-Boot", "Postman", "Docker", "Kubernetes", "Jenkins","GCP"]
+  },
+  {
+    "title": "FarmEasy",
+    "imageSrc": "projects/farmProject.jpeg",
+    "description": "To make it easier for customer to connect farmer for buying products directly via mobile application.",
+    "skills": ["Flutter", "Node.js", "React.js","Firebase"]
+  },
+  {
+    "title": "SmartShield",
+    "imageSrc": "projects/helmetProject.jpeg",
+    "description": "Developed mobile application for bike rider to get connected to emergency medical service in need.",
+    "skills": ["Flutter", "Firebase", "PCA","ESP32"]
+  }
+]
