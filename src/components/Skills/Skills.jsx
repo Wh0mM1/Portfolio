@@ -21,7 +21,7 @@ export const Skills = () => {
             );
           })}
         </div>
-        <h2 className={styles.title1}>Framework/Technologies</h2>
+        <h2 className={styles.title1}>Framework / <br /> Technologies</h2>
         <div className={styles.skills}>
           {skills.map((skill, id) => {
             return (

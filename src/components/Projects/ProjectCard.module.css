@@ -1,29 +1,30 @@
 @import "../../vars.css";
 
 .container {
-  height: 780px;
+  height: 720px;
   display: flex;
   flex-direction: column;
   border-radius: 10px;
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
-  padding: 18px 24px;
-  max-width: 400px;
+  padding: 18px;
+  max-width: 350px;
 }
 
 .image {
   margin-bottom: 26px;
-  /* height: 250px; */
+  height: 250px;
+  /* width: 250px; */
 }
 
 .title {
   font-size: 25px;
-  font-weight: 700;
+  font-weight: 800;
 }
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 400;
 }
 
@@ -43,4 +44,14 @@
   border-radius: 100px;
   background: var(--color-dark);
   padding: 2px 22px;
+}
+
+
+@media screen and (max-width: 830px) {
+    .container {
+        width: 400px;
+        /* flex-direction: row;
+        justify-content: center; */
+    }
+
 }
