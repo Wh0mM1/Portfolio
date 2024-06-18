@@ -1,11 +1,11 @@
 [
   {
-    "title": "Java",
-    "imageSrc": "https://skillicons.dev/icons?i=java"
-  },
-  {
     "title": "C++",
     "imageSrc": "https://skillicons.dev/icons?i=cpp"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "https://skillicons.dev/icons?i=java"
   },
   {
     "title": "Javascript",
@@ -16,7 +16,19 @@
     "imageSrc": "https://skillicons.dev/icons?i=dart"
   },
   {
+    "title": "Python",
+    "imageSrc": "https://skillicons.dev/icons?i=python"
+  },
+  {
+    "title": "C",
+    "imageSrc": "https://skillicons.dev/icons?i=c"
+  },
+  {
     "title": "HTML",
     "imageSrc": "https://skillicons.dev/icons?i=html"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "https://skillicons.dev/icons?i=css"
   }
 ]
