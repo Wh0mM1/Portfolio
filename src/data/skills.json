@@ -1,8 +1,5 @@
 [
-  {
-    "title": "Java",
-    "imageSrc": "https://skillicons.dev/icons?i=java"
-  },
+  
   {
     "title": "Spring-Boot",
     "imageSrc": "https://skillicons.dev/icons?i=spring"
@@ -36,56 +33,22 @@
     "imageSrc": "https://skillicons.dev/icons?i=gcp"
   },
   {
-    "title": "HTML",
-    "imageSrc": "https://skillicons.dev/icons?i=html"
+    "title": "Node",
+    "imageSrc": "https://skillicons.dev/icons?i=nodejs"
   },
+  
+  {
+    "title": "Postman",
+    "imageSrc": "https://skillicons.dev/icons?i=postman"
+  },
+  
   {
     "title": "CSS",
     "imageSrc": "https://skillicons.dev/icons?i=css"
   },
   
   {
-    "title": "Node",
-    "imageSrc": "https://skillicons.dev/icons?i=nodejs"
-  },
-  {
-    "title": "MySQL",
-    "imageSrc": "https://skillicons.dev/icons?i=mysql"
-  },
-  {
-    "title": "Postgres",
-    "imageSrc": "https://skillicons.dev/icons?i=postgres"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "https://skillicons.dev/icons?i=mongodb"
-  },
-  {
-    "title": "Firebase",
-    "imageSrc": "https://skillicons.dev/icons?i=firebase"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "https://skillicons.dev/icons?i=mongodb"
-  },
-  {
-    "title": "Postman",
-    "imageSrc": "https://skillicons.dev/icons?i=postman"
-  },
-  {
     "title": "Redis",
     "imageSrc": "https://skillicons.dev/icons?i=redis"
-  },
-  {
-    "title": "Javascript",
-    "imageSrc": "https://skillicons.dev/icons?i=js"
-  },
-  {
-    "title": "Dart",
-    "imageSrc": "https://skillicons.dev/icons?i=dart"
-  },
-  {
-    "title": "C++",
-    "imageSrc": "https://skillicons.dev/icons?i=cpp"
   }
 ]

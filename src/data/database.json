@@ -1,0 +1,18 @@
+[
+    {
+        "title": "MySQL",
+        "imageSrc": "https://skillicons.dev/icons?i=mysql"
+    },
+    {
+        "title": "Postgres",
+        "imageSrc": "https://skillicons.dev/icons?i=postgres"
+    },
+    {
+        "title": "MongoDB",
+        "imageSrc": "https://skillicons.dev/icons?i=mongodb"
+    },
+    {
+        "title": "Firebase",
+        "imageSrc": "https://skillicons.dev/icons?i=firebase"
+    }
+]

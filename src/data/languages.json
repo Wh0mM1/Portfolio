@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "https://skillicons.dev/icons?i=java"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "https://skillicons.dev/icons?i=cpp"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "https://skillicons.dev/icons?i=js"
+  },
+  {
+    "title": "Dart",
+    "imageSrc": "https://skillicons.dev/icons?i=dart"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "https://skillicons.dev/icons?i=html"
+  }
+]
